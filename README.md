@@ -88,3 +88,7 @@ Set `WILDFIRE_API_KEY` to require an `X-API-Key` header on every POST.
 
 517 records, one park, 2000-2003, weather-index inputs only, a label that treats a 0.1 ha and a 1,000 ha fire the same, and 4 exact duplicate rows
 that a random split can put on both sides. Nothing here has been validated on other regions or on live sensors.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
